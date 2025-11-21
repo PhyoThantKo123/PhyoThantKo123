@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Phyo Thant Ko
 
-## 🎓 About Me
-I am  a passionate web developer, focused on building clean, modern, and responsive web applications.  
-I specialize in **Vue, Nuxt, Laravel, Tailwind, Bootstrap**, and I love learning new technologies every day.
+## 💫 About Me
+A passionate web developer and Mathematics major from **WYU**, focused on building clean, modern, and responsive web applications.  
+I specialize in **Vue, Nuxt, Laravel, Tailwind, Bootstrap, MySQL, and Figma**, and I love learning new technologies every day.
 
 ---
 
@@ -18,9 +18,8 @@ I specialize in **Vue, Nuxt, Laravel, Tailwind, Bootstrap**, and I love learning
 </p>
 
 ### ⚙️ Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ### 🗄️ Database
 <p align="left">
@@ -32,6 +31,7 @@ I specialize in **Vue, Nuxt, Laravel, Tailwind, Bootstrap**, and I love learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -53,11 +53,11 @@ I specialize in **Vue, Nuxt, Laravel, Tailwind, Bootstrap**, and I love learning
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhyoThantKo123&show_icons=true)
 
 ---
 
 ## 🌐 Connect With Me
 - 📧 **Email:** phyothantko547@gmail.com  
 - 📱 **Phone:** 09795596514  
-- 📘 **Facebook:** https://www.facebook.com/profile.php?id=100038229197077  
+- 📘 **Facebook:** [Link](https://www.facebook.com/profile.php?id=100038229197077)
