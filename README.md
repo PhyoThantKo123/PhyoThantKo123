@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Phyo Thant Ko
 
 ## 💫 About Me
-A passionate web developer and Mathematics major from **WYU**, focused on building clean, modern, and responsive web applications.  
+A passionate web developer, focused on building clean, modern, and responsive web applications.  
 I specialize in **Vue, Nuxt, Laravel, Tailwind, Bootstrap, MySQL, and Figma**, and I love learning new technologies every day.
 
 ---
@@ -50,11 +50,6 @@ I specialize in **Vue, Nuxt, Laravel, Tailwind, Bootstrap, MySQL, and Figma**, a
 - Create clean, modern UI with Vue, Nuxt, and Tailwind  
 - Improve coding fundamentals & algorithmic thinking  
 - Learn and explore new technologies  
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhyoThantKo123&show_icons=true)
 
 ---
 
